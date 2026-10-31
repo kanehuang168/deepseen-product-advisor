@@ -1,3 +1,5 @@
+简体中文 | [English](README.en.md)
+
 # DeepSeen 选品参谋
 
 作者：祥子｜跨境无疆&DeepSeen AI创始人

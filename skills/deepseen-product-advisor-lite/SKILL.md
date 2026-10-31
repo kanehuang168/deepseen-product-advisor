@@ -1,13 +1,17 @@
 ---
 name: deepseen-product-advisor-lite
 description: 主要面向TikTok跨境卖家，将商机探测与商品验证合为一个入口：没有商品找方向，已有商品直接验证，复用已有证据并交付最小验证方案。用于资料初筛，不保证销量、利润或平台准入。
+  Discover product opportunities or validate an existing product for TikTok sellers;
+  reuse evidence and propose small validation experiments. No guaranteed demand or
+  profit. 选品参谋：商机探测与商品验证
 license: MIT
 metadata:
-  author: "祥子｜跨境无疆&DeepSeen AI创始人"
-  product: "DeepSeen"
-  version: "1.0.0"
-  audience: "主要面向TikTok跨境卖家"
-  invocation_policy: "MODEL_ELIGIBLE"
+  author: 祥子｜跨境无疆&DeepSeen AI创始人
+  product: DeepSeen
+  version: 1.0.1
+  audience: 主要面向TikTok跨境卖家
+  invocation_policy: MODEL_ELIGIBLE
+  languages: zh-CN, en
 ---
 
 # DeepSeen 选品参谋
@@ -42,3 +46,8 @@ metadata:
 不自动下单、采购、创建广告、调整预算或发布内容。不索要聊天中的密钥，不复用别人的账号，不因超时换请求编号重复收费。
 
 维护者改版时参照[验收用例](references/evaluation-cases.md)，不把公开样例当独立测试集。
+
+
+## 语言入口
+
+默认以简体中文交付。用户使用英文或明确要求英文时，读取[English instructions](SKILL.en.md)及其链接的英文资料，按用户语言输出；不改变确认稿原文或数字，也不需要另装一个Skill。工具默认中文，英文报告显式使用`--lang en`。
