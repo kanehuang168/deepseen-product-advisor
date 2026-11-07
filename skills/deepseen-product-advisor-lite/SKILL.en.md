@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.2
+  version: 1.0.3
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -38,6 +38,10 @@ Deliver an opportunity comparison or validation brief, its evidence and limitati
 Use the [handoff fields](references/handoff.en.md) to pass product facts, unknown attributes, audience, supported selling points and any confirmed script to the director. See the [fictional cup](assets/cup-brief.en.md). Do not turn uncertain attributes into ad claims. A plan is not a produced video or a validated market.
 
 If the user requests live professional data or cloud execution, follow [connection and recovery](references/cloud.en.md): discover actual tools and prices, use the user's connection and valid authorization, preserve the original request identifier, and query uncertain submissions before retrying. Never ask for keys in chat. Missing access pauses that action; provided-material screening may continue if desired, clearly separated from cloud analysis. Maintainers can use the [development cases](references/evaluation-cases.en.md); they are not independent tests.
+
+## Delivery check
+
+Check whether the user needs discovery or validation; identify market, source dates and missing data; distinguish screening from sales evidence; report actual cloud status and cost.
 
 ## Author and brand
 
