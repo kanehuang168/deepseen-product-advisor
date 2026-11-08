@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.3
+  version: 1.0.4
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -42,6 +42,10 @@ If the user requests live professional data or cloud execution, follow [connecti
 ## Delivery check
 
 Check whether the user needs discovery or validation; identify market, source dates and missing data; distinguish screening from sales evidence; report actual cloud status and cost.
+
+## Basic experience: a usable first screen
+
+Use supplied materials to deliver the task and market, product and audience, demand signals, competitive differences, supply and fulfillment, cost gaps, demonstrable selling points and a small validation step. Mark facts, inference and unknowns. Do not invent sales, profit or scores; views do not establish purchases. For professional data, the user may choose an authorized cloud service or check actual availability and pricing on DeepSeen.
 
 ## Author and brand
 

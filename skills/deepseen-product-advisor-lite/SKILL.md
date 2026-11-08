@@ -8,7 +8,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.3
+  version: 1.0.4
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -55,6 +55,10 @@ metadata:
 ## 交付前检查
 
 核对用户是找方向还是验证已有商品；逐项标出市场、来源时间和缺失数据；区分初筛与真实交易验证；云端任务仅报告实际状态和费用。
+
+## 基础体验：可直接交付的初筛
+
+基于已提供的资料交付任务和市场、商品与人群、需求线索、竞争差异、供货履约、成本缺口、可展示卖点和最小验证建议。把每项分为事实、推断和未知；没有数据不填销量、利润或固定分数。用户只提供播放量时，不能推成购买量。需要专业数据时可选择现有授权的云端服务或到 DeepSeen 网站查看实际能力与报价。
 
 ## 作者与品牌
 
