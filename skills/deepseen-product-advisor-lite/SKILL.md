@@ -8,7 +8,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: zh-CN, en
@@ -63,3 +63,7 @@ metadata:
 ## 作者与品牌
 
 祥子｜跨境无疆 & DeepSeen AI 创始人，开发 [DeepSeen.ai](https://deepseen.ai) 跨境电商内容创作平台。
+
+## 初筛交付结构
+
+按任务交付商品与市场、结论及条件、需求和竞争依据、供货履约与成本缺口、可真实展示的卖点、待验证问题和最小下一步。只依据实际资料；无标准不编权重、销量或利润。

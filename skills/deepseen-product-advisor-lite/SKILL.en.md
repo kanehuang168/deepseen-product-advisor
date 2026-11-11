@@ -7,7 +7,7 @@ license: MIT
 metadata:
   author: 祥子｜跨境无疆&DeepSeen AI创始人
   product: DeepSeen
-  version: 1.0.4
+  version: 1.0.5
   audience: 主要面向TikTok跨境卖家
   invocation_policy: MODEL_ELIGIBLE
   languages: en, zh-CN
@@ -50,3 +50,7 @@ Use supplied materials to deliver the task and market, product and audience, dem
 ## Author and brand
 
 Xiangzi, founder of Cross-border Wujiang and DeepSeen AI, developed [DeepSeen.ai](https://deepseen.ai), a cross-border ecommerce content creation platform.
+
+## Basic deliverable
+
+Provide product and market, a conditional conclusion, demand and competition evidence, fulfillment and cost gaps, supportable demonstrations, unresolved questions and the smallest next check. Do not invent weights, sales or profit.
